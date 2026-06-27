@@ -1,4 +1,8 @@
 # ApexZenUtilities
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Game](https://img.shields.io/badge/Game-Apex%20Legends-orange)
+![Platform](https://img.shields.io/badge/Platform-Cronus%20Zen-blue)
+![License](https://img.shields.io/badge/License-Credit%20Required-red)
 
 ## Credit
 
@@ -33,8 +37,3 @@ The values provided in this repository are intended as a starting point for test
 ---
 
 © ApexZenUtilities — Public use is permitted with proper attribution.
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Game](https://img.shields.io/badge/Game-Apex%20Legends-orange)
-![Platform](https://img.shields.io/badge/Platform-Cronus%20Zen-blue)
-![License](https://img.shields.io/badge/License-Credit%20Required-red)
