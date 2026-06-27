@@ -2,7 +2,7 @@
 <p align="center">
 
 [![User Info](https://img.shields.io/badge/User%20Info-View-blue?style=for-the-badge)](UserInfo.md)
-[![Changelog](https://img.shields.io/badge/Changelog-View-orange?style=for-the-badge)](CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/Changelog-View-orange?style=for-the-badge)](ChangeLog.md)
 
 </p>
 
