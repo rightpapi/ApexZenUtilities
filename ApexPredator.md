@@ -1,10 +1,28 @@
 # ApexPredator Script
 <p align="center">
 
-[![User Info](https://img.shields.io/badge/User%20Info-View-blue?style=for-the-badge)](UserInfo.md)
-[![Changelog](https://img.shields.io/badge/Changelog-View-orange?style=for-the-badge)](ChangeLog.md)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/VtBeKY5jU9)
+[![README](https://img.shields.io/badge/README-Back-blue)](README.md)
+[![User Info](https://img.shields.io/badge/User%20Info-View-purple)](UserInfo.md)
+[![Tutorials](https://img.shields.io/badge/Tutorials-View-green)](Tutorials.md)
+[![Changelog](https://img.shields.io/badge/Changelog-View-orange)](CHANGELOG.md)
 
 </p>
+
+These values are the recommended configurations for the ApexPredator script. They have been tested to provide a reliable baseline, but they may not match every user's setup.
+
+Your sensitivity, controller settings, deadzones, hardware, and playstyle can all affect how these values perform. Adjustments may be required to achieve your preferred results.
+
+---
+
+## Configuration
+
+Testing Configuration:
+
+```text
+Sensitivity: 4-3
+Platform: Xbox
+Aim Assist: Enabled
 
 These values have been carefully tested and are the recommended settings for the ApexPredator script. They are intended to provide a reliable starting point for recoil compensation across a variety of weapons and optics.
 
