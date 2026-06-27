@@ -1,4 +1,12 @@
 # User Information
+<p align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/VtBeKY5jU9)
+[![README](https://img.shields.io/badge/README-Back-blue)](README.md)
+[![Changelog](https://img.shields.io/badge/Changelog-View-orange)](CHANGELOG.md)
+[![Tutorials](https://img.shields.io/badge/Tutorials-View-green)](Tutorials.md)
+
+</p>
 
 This page contains the settings used while testing and creating the values available throughout this repository. These settings are provided for reference only and may differ from your own preferences.
 
