@@ -10,6 +10,16 @@ These values are subject to change as the script and game continue to evolve. Be
 
 This page will continue to expand over time with additional weapons, features, and other useful resources, so stay tuned for future updates.
 
+## Mods
+```text
+Bunny-Hop | Toggle
+Wall Jump
+Fast Reload
+Press Down; Armour Swap (Time 80) (Mod Normal)
+Press L3; Zip Jump
+Press Left; None
+```
+
 ## Values
 
 ### SMGs
