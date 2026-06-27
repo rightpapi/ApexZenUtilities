@@ -60,6 +60,30 @@ Please keep all contributions accurate, relevant, and easy to understand. Conten
 
 ---
 
+---
+
+## Contributing
+
+Contributions are welcome, but please make sure all submissions follow the repository format.
+
+Any values, settings, configurations, or other code-related content must be placed inside Markdown code blocks to ensure proper formatting and readability.
+
+Contributions that are incorrectly formatted, missing information, misleading, or do not follow repository standards may be edited or removed.
+
+Before submitting changes, please check existing content to avoid duplicates and keep the repository organised.
+
+---
+
+## License
+
+This repository is publicly available for viewing and personal use.
+
+You may use the values and resources provided, but any redistribution, reuploading, or use in public content requires proper credit and a link back to this repository.
+
+The contents of this repository are provided as-is without guarantees of performance, accuracy, or results.
+
+---
+
 ## Disclaimer
 
 These values are not guaranteed to improve your aim, recoil control, or overall gameplay. Results will vary depending on factors such as your controller settings, sensitivity, playstyle, hardware, and individual skill.
