@@ -1,4 +1,13 @@
 # Changelog
+<p align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/VtBeKY5jU9)
+[![README](https://img.shields.io/badge/README-Back-blue)](README.md)
+[![User Info](https://img.shields.io/badge/User%20Info-View-purple)](UserInfo.md)
+[![Tutorials](https://img.shields.io/badge/Tutorials-View-green)](Tutorials.md)
+
+
+</p>
 
 All notable changes to the ApexZen repository are documented here.
 
