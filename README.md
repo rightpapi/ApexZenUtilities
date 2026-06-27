@@ -1,33 +1,52 @@
 # ApexZenUtilities
+
 <p align="center">
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![Game](https://img.shields.io/badge/Game-Apex%20Legends-orange)
-![Credit](https://img.shields.io/badge/Credit-Required-red)
+![Status](https://img.shields.io/badge/Status-Active-00ff66)
+![Version](https://img.shields.io/badge/Version-1.0.0-5865f2)
+![Game](https://img.shields.io/badge/Game-Apex%20Legends-ff3344)
+![Credit](https://img.shields.io/badge/Credit-Required-ff8800)
 
 </p>
 
 <p align="center">
 
-[![ApexPredator](https://img.shields.io/badge/ApexPredator-Values-brightgreen)](ApexPredator.md)
+[![ApexPredator](https://img.shields.io/badge/ApexPredator-Values-8a2be2)](ApexPredator.md)
 [![User Info](https://img.shields.io/badge/User%20Info-View-blue)](UserInfo.md)
-[![Tutorials](https://img.shields.io/badge/Tutorials-View-orange)](Tutorials.md)
-[![Changelog](https://img.shields.io/badge/Changelog-View-red)](CHANGELOG.md)
+[![Tutorials](https://img.shields.io/badge/Tutorials-View-green)](Tutorials.md)
+[![Changelog](https://img.shields.io/badge/Changelog-View-orange)](CHANGELOG.md)
 
 </p>
+
+---
+
+## About
+
+ApexZenUtilities is a collection of values, configurations, and resources designed to provide users with a strong starting point for customization and testing.
+
+All values are created around a specific testing setup. Results may vary depending on sensitivity, controller settings, hardware, and personal preference.
+
+---
+
+## Features
+
+Script documentation, tested values, configuration guides, tutorials, and regular updates.
+
+---
 
 ## Credit
 
-All values and content in this repository are **public**, however **credit is required** if you:
+All values and content in this repository are public, however credit is required if you:
 
-- Reupload or redistribute any part of this repository.
-- Use these values in videos, streams, social media posts, or other content.
-- Include these values in your own projects or repositories.
+Reupload or redistribute any part of this repository.
+
+Use these values in videos, streams, social media posts, or other public content.
+
+Include these values in your own projects or repositories.
 
 Please provide clear credit by linking back to this GitHub repository.
 
-
+---
 
 ## Repository Rules
 
@@ -39,13 +58,13 @@ Do not claim any values, settings, or other content from this repository as your
 
 Please keep all contributions accurate, relevant, and easy to understand. Content that is misleading, intentionally false, spam, or otherwise detrimental to the quality of the repository may be edited or removed at the maintainers' discretion.
 
+---
 
 ## Disclaimer
 
-These values are **not guaranteed** to improve your aim, recoil control, or overall gameplay. Results will vary depending on factors such as your controller settings, sensitivity, playstyle, hardware, and individual skill.
+These values are not guaranteed to improve your aim, recoil control, or overall gameplay. Results will vary depending on factors such as your controller settings, sensitivity, playstyle, hardware, and individual skill.
 
 The values provided in this repository are intended as a starting point for testing and customization. You may need to adjust them to suit your own preferences and setup.
-
 
 ---
 
