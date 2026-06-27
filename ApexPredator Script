@@ -1,70 +1,116 @@
-# ApexPredator Script 
+# ApexPredator Script
 
-These are the recommended values for the Predator script. While they have been extensively tested, they may not match your personal preferences, sensitivity, or playstyle. Feel free to adjust them to better suit your setup.
+These values have been carefully tested and are the recommended settings for the ApexPredator script. They are intended to provide a reliable starting point for recoil compensation across a variety of weapons and optics.
 
-Keep in mind that these values are **not designed to make your aim perfect**. Their purpose is to provide the closest possible recoil compensation and serve as a solid baseline, but individual results will vary.
+Keep in mind that every player's setup is different. Your controller, sensitivity, deadzone, playstyle, and personal preference may all affect how these values perform. Don't hesitate to make small adjustments until they feel right for you.
 
-# Values
+Please note that these values are **not guaranteed to make your aim perfect** or completely eliminate recoil. They are designed to provide the closest possible recoil compensation while still requiring proper tracking, recoil control, and mechanical skill. Individual results will vary.
 
-SMGs:
+## Values
+
+### SMGs
+
+```text
 R-99: V -7, H 23 | Hipfire 5
 Volt: V -6, H 10 | Hipfire 4
 CAR: V -6, H 31 | Hipfire 4
-Re45 all 0 | Hipfire 0
+RE-45: V 0, H 0 | Hipfire 0
 Alternator: V -14, H 8 | Hipfire 4
 Alternator (Double Tap): V -33, H 3 | Hipfire 4
 Prowler Burst: V -8, H 18 | Hipfire 3
 Prowler Auto: V -9, H 20 | Hipfire 4
+```
 
-Assault Rifles:
-R-301
+### Assault Rifles
+
+#### R-301
+
+```text
 1x: V -43, H 24 | Hipfire 0
 2x: V -20, H -26
 3x: V -3, H -23
 4x: V -5, H -18
-Havoc
+```
+
+#### Havoc
+
+```text
 1x: V -6, H 6 | Hipfire 0
 2x: V -1, H -10
 3x: V 0, H -6
 4x: V -3, H 12
-Nemesis
+```
+
+#### Nemesis
+
+```text
 1x: V -1, H 7 | Hipfire 0
 2x: V -3, H 10
 3x: V -16, H -27
 4x: V 0, H 0
-Hemlock
+```
+
+#### Hemlock
+
+```text
 1x: V 2, H 0 | Hipfire 0
 2x: V 3, H 1
 3x: V -5, H 10
 4x: V 8, H 2
-LMGs
-Spitfire
+```
+
+### LMGs
+
+#### Spitfire
+
+```text
 1x: V -25, H 45 | Hipfire 0
 2x: V 9, H 25
 3x: V 27, H -35
 4x: V 39, H 9
-L-STAR
+```
+
+#### L-STAR
+
+```text
 1x: V -33, H -13 | Hipfire 0
 2x: V -35, H 27
 3x: V -14, H 35
 4x: V 9, H 23
-Flatline
+```
+
+#### Flatline
+
+```text
 1x: V -15, H 27 | Hipfire 0
 2x: V -17, H -27
 3x: V -14, H 9
 4x: V 0, H 12
-Rampage
+```
+
+#### Rampage
+
+```text
 1x: V -32, H -4 | Hipfire -34
 2x: V -14, H -7
 3x: V -54, H -9
 4x: V -27, H -3
-Devotion Turbo
+```
+
+#### Devotion (Turbo)
+
+```text
 1x: V -45, H 16 | Hipfire 5
 2x: V -26, H 6
 3x: V -16, H -10
 4x: V -10, H -20
-Marksman (G7 + 30-30)
+```
+
+### Marksman (G7 + 30-30)
+
+```text
 1x: V -12, H 15 | Hipfire 2
 2x: V -8, H -12
 3x: V -4, H -18
 4x: V -6, H -22
+```
