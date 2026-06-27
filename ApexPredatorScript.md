@@ -1,4 +1,10 @@
 # ApexPredator Script
+<p align="center">
+
+[![User Info](https://img.shields.io/badge/User%20Info-View-blue?style=for-the-badge)](UserInfo.md)
+[![Changelog](https://img.shields.io/badge/Changelog-View-orange?style=for-the-badge)](CHANGELOG.md)
+
+</p>
 
 These values have been carefully tested and are the recommended settings for the ApexPredator script. They are intended to provide a reliable starting point for recoil compensation across a variety of weapons and optics.
 
