@@ -14,7 +14,6 @@
 [![User Info](https://img.shields.io/badge/User%20Info-View-blue)](UserInfo.md)
 [![Tutorials](https://img.shields.io/badge/Tutorials-View-green)](Tutorials.md)
 [![Changelog](https://img.shields.io/badge/Changelog-View-orange)](CHANGELOG.md)
-[![Rules](https://img.shields.io/badge/Rules-Read-red)](Rules.md)
 
 </p>
 
