@@ -5,7 +5,6 @@
 [![README](https://img.shields.io/badge/README-Back-blue)](README.md)
 [![User Info](https://img.shields.io/badge/User%20Info-View-purple)](UserInfo.md)
 [![Changelog](https://img.shields.io/badge/Changelog-View-orange)](CHANGELOG.md)
-[![Rules](https://img.shields.io/badge/Rules-Read-red)](RULES.md)
 
 </p>
 
