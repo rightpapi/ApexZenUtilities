@@ -22,9 +22,7 @@ If something does not work as expected, double-check that your settings match th
 
 ### Setup Tutorial
 
-Video tutorial coming soon.
-
-This tutorial will cover the full setup process, including installation, configuration, importing values, and basic usage.
+https://github.com/user-attachments/assets/4c2cd75c-0db1-48d8-ac37-c1a57357a90c
 
 Recommended to check:
 
