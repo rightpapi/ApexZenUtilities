@@ -41,6 +41,8 @@ Recommended to check:
 - Your in-game settings match the recommended values.
 - Your controller settings are configured correctly.
 - Values are copied exactly as shown.
+- My settings are shown in UserInfo.md
+
 
 ---
 
