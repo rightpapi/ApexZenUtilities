@@ -90,6 +90,6 @@ The values provided in this repository are intended as a starting point for test
 
 ---
 
-<img width="1983" height="793" alt="ChatGPT Image Jun 28, 2026, 09_38_53 AM" src="https://github.com/user-attachments/assets/fb8ee07c-b52e-4962-b03a-3ed7ab28e13b" />
+<img width="1983" height="793" alt="ApexZen" src="https://github.com/user-attachments/assets/905ddf1e-70dd-49ac-a1e8-21a21d0e4daa" />
 
 © ApexZenUtilities — Public use is permitted with proper attribution.
